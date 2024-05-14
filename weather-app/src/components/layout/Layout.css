@@ -1,0 +1,100 @@
+.layout {
+	display: 'flex';
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.inner-container {
+	width: 360px;
+	margin: 0 auto;
+	padding: 100px 12px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	row-gap: 24px;
+}
+
+/* Dawn */
+.time-5 {
+	background: linear-gradient(to bottom, #000033, #660066);
+}
+.time-6 {
+	background: linear-gradient(to bottom, #660066, #ff6699);
+}
+
+/* Morning */
+.time-7 {
+	background: linear-gradient(to bottom, #ff6699, #ffcc66);
+}
+.time-8 {
+	background: linear-gradient(to bottom, #ffcc66, #99ccff);
+}
+.time-9 {
+	background: linear-gradient(to bottom, #99ccff, #cceeff);
+}
+.time-10 {
+	background: linear-gradient(to bottom, #cceeff, #cceeff);
+}
+
+/* Noon */
+.time-11 {
+	background: linear-gradient(to bottom, #cceeff, #99ccff);
+}
+.time-12 {
+	background: linear-gradient(to bottom, #99ccff, #66ccff);
+}
+.time-13 {
+	background: linear-gradient(to bottom, #66ccff, #66ccff);
+}
+.time-14 {
+	background: linear-gradient(to bottom, #66ccff, #3399ff);
+}
+
+/* Afternoon */
+.time-15 {
+	background: linear-gradient(to bottom, #3399ff, #3399ff);
+}
+.time-16 {
+	background: linear-gradient(to bottom, #3399ff, #ff9966);
+}
+.time-17 {
+	background: linear-gradient(to bottom, #ff9966, #ff6699);
+}
+
+/* Evening */
+.time-18 {
+	background: linear-gradient(to bottom, #ff6699, #660066);
+}
+.time-19 {
+	background: linear-gradient(to bottom, #660066, #000033);
+}
+
+/* Night */
+.time-20 {
+	background: linear-gradient(to bottom, #000033, #000033);
+}
+.time-21 {
+	background: linear-gradient(to bottom, #000033, #000033);
+}
+.time-22 {
+	background: linear-gradient(to bottom, #000033, #000033);
+}
+.time-23 {
+	background: linear-gradient(to bottom, #000033, #000033);
+}
+.time-0 {
+	background: linear-gradient(to bottom, #000033, #000033);
+}
+.time-1 {
+	background: linear-gradient(to bottom, #000033, #000033);
+}
+.time-2 {
+	background: linear-gradient(to bottom, #000033, #000033);
+}
+.time-3 {
+	background: linear-gradient(to bottom, #000033, #000033);
+}
+.time-4 {
+	background: linear-gradient(to bottom, #000033, #000033);
+}
