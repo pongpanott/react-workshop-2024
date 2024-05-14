@@ -1,0 +1,8 @@
+export enum AppIcon {
+	PLAY_SOLID = 'PLAY_SOLID',
+	PLUS_SOLID = 'PLUS_SOLID',
+
+	//outline icon goes here
+	SPEAKER_WAVE_OUTLINE = 'SPEAKER_WAVE_OUTLINE',
+	HAND_THUMP_UP_OUTLINE = 'HAND_THUMP_UP_OUTLINE',
+}
